@@ -13,3 +13,7 @@ Clicking on the Buy link opens the link on the default system browser.
 
 - C++17
 - QT 6.5.1
+
+## Screenshot
+
+![Screenshot](Screen.png)
